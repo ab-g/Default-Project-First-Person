@@ -1,0 +1,18 @@
+{
+    "@class": "ConeMesh",
+    "id": {
+        "uuid": "D25EFD1F-3566-4396-8CA0-453AE0AFDE62"
+    },
+    "hasPositions": true,
+    "hasColors": false,
+    "hasUV": true,
+    "hasNormals": true,
+    "hasTangents": true,
+    "hasBinormals": true,
+    "hasSkinAttributes": false,
+    "radiusTop": 0.0,
+    "radiusBottom": 0.5,
+    "height": 1.0,
+    "radialSegmentCount": 32,
+    "heightSegmentCount": 32
+}
